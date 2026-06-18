@@ -1,5 +1,8 @@
 # 🧃 Homebrew Cask: swiftDialog
 
+> [!NOTE]
+> This repo has been archived now that swiftDialog is available on Homebrew. 
+
 [![Latest Release](https://img.shields.io/github/v/release/swiftDialog/swiftDialog?label=swiftDialog)](https://github.com/swiftDialog/swiftDialog/releases)
 [![Tap Status](https://github.com/TheBoatyMcBoatFace/homebrew-swiftdialog/actions/workflows/update-cask.yml/badge.svg)](https://github.com/TheBoatyMcBoatFace/homebrew-swiftdialog/actions/workflows/update-cask.yml)
 [![License](https://img.shields.io/github/license/TheBoatyMcBoatFace/homebrew-swiftdialog?color=blue)](./LICENSE)
